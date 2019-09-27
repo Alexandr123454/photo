@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
     "get-image-urls": "^1.0.5",
     "gh-pages": "^2.1.1",
     "image-scraper": "^0.2.1",
