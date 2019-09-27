@@ -1,0 +1,38 @@
+body { 
+  padding: 20px
+}
+
+.images{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  justify-items: center;
+  align-items: center;
+
+  grid-gap: 20px;
+}
+
+.images__item {
+  width: 420px;
+  height: 420px;
+
+  transition: 0.3s;
+}
+
+.images__item:hover {
+  box-shadow: 0 0 10px black;
+}
+
+@media (  max-width: 1350px) {
+
+  .images{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (  max-width: 920px) {
+
+  .images{
+    grid-template-columns: 1fr;
+  }
+}
