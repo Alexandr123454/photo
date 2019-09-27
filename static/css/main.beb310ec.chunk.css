@@ -1,2 +1,0 @@
-body{padding:20px}.images{display:grid;grid-template-columns:repeat(3,1fr);justify-items:center;align-items:center;grid-gap:20px}.images__item{width:420px;height:420px;-webkit-transition:.3s;transition:.3s}.images__item:hover{box-shadow:0 0 10px #000}@media (max-width:1350px){.images{grid-template-columns:repeat(2,1fr)}}@media (max-width:920px){body{padding:0}.images{grid-template-columns:1fr}.images__item{width:320px;height:320px}}
-/*# sourceMappingURL=main.beb310ec.chunk.css.map */
