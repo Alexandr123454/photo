@@ -10,9 +10,6 @@
 _I hope you enjoy using the blog._
 
 _I will be glad if you leave your feedback about my work_
-<<<<<<< HEAD
 
 _Have a good mood_
-=======
-_Have a good mood_
->>>>>>> 7a40f11e86de137a073f70e590b09c1c5f93d8a8
+
