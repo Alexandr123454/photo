@@ -7,7 +7,7 @@
 - You can change the view of the grid by clicking on the "change view" button.
 - Page optimized for any screen resolution.
 
-_I hope you enjoy using the blog._
+_I hope you enjoy using the page._
 
 _I will be glad if you leave your feedback about my work_
 
