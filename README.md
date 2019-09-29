@@ -2,7 +2,7 @@
 
 - [x] One page was implemented using React, Redux (page with pictures from API)
 
-- You can open the blog by clicking on the link above.
+- You can open the page by clicking on the link above.
 
 - You can change the view of the grid by clicking on the "change view" button.
 - Page optimized for any screen resolution.
