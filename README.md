@@ -8,5 +8,7 @@
 - Page optimized for any screen resolution.
 
 _I hope you enjoy using the blog._
+
 _I will be glad if you leave your feedback about my work_
+
 _Have a good mood_

@@ -1,8 +1,11 @@
+import { loadimages } from '../api/API_DATA'
+
 import React from 'react';
 import { connect } from 'react-redux'
-import { loadimages } from '../api/API_DATA'
 import { Spring } from 'react-spring/renderprops';
 import classnames from 'classnames';
+import PropTypes from 'prop-types';
+
 import '../style/App.css';
 
 const getData = state => ({
@@ -80,6 +83,13 @@ class App extends React.Component {
     )
   }
 }
+
+App.propTypes = {
+  images: PropTypes.arrayOf(PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.object])).isRequired,
+  handleClick: PropTypes.func.isRequired,
+};
 
 export default connect(
   getData,
